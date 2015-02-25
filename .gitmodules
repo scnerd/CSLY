@@ -1,0 +1,3 @@
+[submodule "Helpers"]
+	path = Helpers
+	url = https://github.com/scnerd/ScnerdHelpers.git
