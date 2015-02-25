@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSLY", "CSLY\CSLY.csproj", "{8D9541A5-8A17-4063-A55C-6D1AE86BB83B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSLYDemo", "CSLYDemo\CSLYDemo.csproj", "{5D215E3A-4FA8-478E-91F6-20FF379D9894}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers", "D:\SSD Dropbox\Dropbox\VS Projects\Helpers\Helpers.csproj", "{92086FDA-F676-48B9-9D9F-0581E3B61225}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D9541A5-8A17-4063-A55C-6D1AE86BB83B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D9541A5-8A17-4063-A55C-6D1AE86BB83B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D9541A5-8A17-4063-A55C-6D1AE86BB83B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D9541A5-8A17-4063-A55C-6D1AE86BB83B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D215E3A-4FA8-478E-91F6-20FF379D9894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D215E3A-4FA8-478E-91F6-20FF379D9894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D215E3A-4FA8-478E-91F6-20FF379D9894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D215E3A-4FA8-478E-91F6-20FF379D9894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92086FDA-F676-48B9-9D9F-0581E3B61225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92086FDA-F676-48B9-9D9F-0581E3B61225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92086FDA-F676-48B9-9D9F-0581E3B61225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92086FDA-F676-48B9-9D9F-0581E3B61225}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
